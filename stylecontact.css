@@ -1,0 +1,68 @@
+body{
+     display: flex;
+	justify-content: center;
+	align-items: center;
+    height: 100vh;
+	width: 100vw;
+
+}
+#saidbar{
+	background-color:#FFFFFF;
+   }
+	
+#saidbar ul{
+    list-style-type: none;
+    margin-top: -460px;
+    overflow: hidden;
+}	
+
+#saidbar ul li{
+    float: left;
+
+}
+#saidbar ul li a{
+	display:inline-block;
+    color: #292929;
+    text-align: center;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+#saidbar ul li a:hover {
+    border-bottom:4px solid #00AA9C;}
+
+#container{
+	
+	width:900px;
+	height:700px;
+	background-color:#F1F3F4;
+	float:left;
+    text-align: center;
+   
+	
+}	
+
+#container-four h1{
+	font-size: 20px;
+	text-align: center;
+	background-color:lightblue;
+    
+}
+
+#container-four h1{
+	font-size: 20px;
+	text-align: center;
+	background-color:lightblue;
+}
+
+
+#container-four p{
+	text-align: center;
+	background-color:#FFDEAD;
+}
+
+
+#container-four img{
+	width: 280px;
+}

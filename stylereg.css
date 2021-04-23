@@ -1,0 +1,25 @@
+#saidbar{
+	background-color:#FFFFFF;
+   }
+	
+#saidbar ul{
+    list-style-type: none;
+    margin-top: -460px;
+    overflow: hidden;
+}	
+
+#saidbar ul li{
+    float: left;
+
+}
+#saidbar ul li a{
+	display:inline-block;
+    color: #292929;
+    text-align: center;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+#saidbar ul li a:hover {
+    border-bottom:4px solid #00AA9C;}
